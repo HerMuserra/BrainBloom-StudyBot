@@ -14,8 +14,9 @@ Python | Sentence Transformers | Google Colab
 
 ## 🚀 How to Use
 1. Upload your notes.txt in Colab
-2. Run each cell to generate embeddings
-3. Start asking questions!
+2. Make sure `notes.txt` is in the same folder
+3. Run each cell to generate embeddings
+4. Start asking questions!
 
 ## 🩵 Author
 Built by [HerMuserra](https://github.com/HerMuserra)
