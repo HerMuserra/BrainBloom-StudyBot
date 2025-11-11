@@ -1,0 +1,44 @@
+AI: 
+Artificial Intelligence is the simulation of human intelligence in machines.
+
+Machine Learning: 
+Machine Learning is a subset of AI where machines learn from data and improve automatically.
+
+Deep Learning: 
+Deep Learning is a type of Machine Learning using neural networks to model complex patterns.
+
+Python: 
+Python is a versatile programming language widely used for AI, web development, and data analysis.
+
+Data Structures: 
+Data Structures organize and store data efficiently for algorithms to use.
+
+Algorithms: 
+Algorithms are step-by-step procedures or formulas for solving problems.
+
+Neural Networks: 
+Neural Networks are computing systems inspired by the human brain's network of neurons.
+
+Natural Language Processing: 
+NLP is a branch of AI that deals with interaction between computers and human language.
+
+Computer Vision: 
+Computer Vision enables machines to interpret and process visual information from the world.
+
+Reinforcement Learning: 
+A type of Machine Learning where agents learn to make decisions by receiving rewards or penalties.
+
+Supervised Learning: 
+Learning from labeled data to make predictions or classifications.
+
+Unsupervised Learning: 
+Learning patterns from unlabeled data without explicit instructions.
+
+Python Libraries: 
+Libraries like NumPy, Pandas, and TensorFlow help perform AI and data tasks efficiently.
+
+Big Data: 
+Big Data refers to extremely large datasets that can be analyzed computationally to reveal patterns.
+
+AI Ethics: 
+The study of ethical issues and responsible practices in designing and deploying AI systems.
